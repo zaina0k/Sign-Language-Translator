@@ -30,8 +30,20 @@ hashlib (https://docs.python.org/3/library/hashlib.html) - A library that allows
 
 smtplib (https://docs.python.org/3/library/smtplib.html) - A library that allows for email verification to the user. This send a verification code that the user must enter to proceed with signing up. This also ensures that users can have the same username, name and password but cannot have two accounts with the same email.  
 
+Picture Examples:  
 
+![image](https://user-images.githubusercontent.com/70727546/212751322-67ad70d5-e455-429c-ac02-313eca313fd6.jpeg)
+Figure 1: Search Page   
 
+![image](https://user-images.githubusercontent.com/70727546/212749092-6fbacc05-373f-494d-841e-cf407d5d4597.jpeg)
+Figure 2: Sign up email confirmation example    
+![image](https://user-images.githubusercontent.com/70727546/212749186-8416bacd-beb5-4385-8d80-aca04a9cb600.jpeg)
+Figure 3: Online database example  
+![image](https://user-images.githubusercontent.com/70727546/212749673-a8557cd5-6898-4040-ba36-641edad6b385.jpeg)
+Figure 4: Tailored consolidation page example (answer has already been revealed)    
+
+![image](https://user-images.githubusercontent.com/70727546/212748900-717b646b-36f6-48a6-a270-2dff9a985a8e.jpeg)
+Figure 5: Sign up page data flow diagram   
 
 
 
