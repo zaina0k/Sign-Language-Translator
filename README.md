@@ -1,7 +1,7 @@
 # Sign-Language-Translator
 Sign Language Translator
 
-Description: Sign language translator is a python project that uses a sign language bank alongside a GUI to allow users to learn sign language via a GIF showcasing the action. The project boasts an online user profile system alongside an adaptive learning algorithm for better learning efficiency.
+Description: Sign language translator is a python project that uses a sign language bank alongside a GUI to allow users to learn sign language via a GIF showcasing the action. The project boasts an online user profile system alongside an adaptive learning algorithm for better learning efficiency.  
 For further details on the final product see "Describe the final project" in "Zain Altaf Final Product.pdf"  
 
 Key Modules and features:  
