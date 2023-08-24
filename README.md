@@ -45,5 +45,5 @@ Figure 4: Tailored consolidation page example (answer has already been revealed)
 ![image](https://user-images.githubusercontent.com/70727546/212748900-717b646b-36f6-48a6-a270-2dff9a985a8e.jpeg)
 Figure 5: Sign up page data flow diagram   
 
-
+Credit: Dan St Gallay (Github.com/danstg1) - help building initial signing database
 
